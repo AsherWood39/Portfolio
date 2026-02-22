@@ -1,5 +1,7 @@
 # Professional Portfolio - Athishta
 
+![Main Site Glimpse](./public/portfolio-preview.png)
+
 A modern, high-performance, and visually stunning developer portfolio built with a premium 3D aesthetic. This project showcases a blend of technical skills, personal journey, and a curated selection of projects using a sophisticated Bento grid layout.
 
 ## 🚀 Live Demo
